@@ -1,0 +1,2 @@
+competition Id,performanceMetric,crossValidationPerformance,runningTimeSeconds
+66,logloss,0.60169,226.3Êseconds
