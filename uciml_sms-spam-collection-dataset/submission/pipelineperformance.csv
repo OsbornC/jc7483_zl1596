@@ -1,2 +1,2 @@
 competition Id,performanceMetric,crossValidationPerformance,runningTimeSeconds
-65,accuracy,0.669455253,42.1405229568481 seconds
+240,accuracy,0.88277512,1.92897295951843s
